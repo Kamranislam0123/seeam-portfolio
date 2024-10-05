@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+src/public/images/c06712c0d8bbec8271265c560dbef909.png
+src/public/images/proof-reader-1.1.11.zip
